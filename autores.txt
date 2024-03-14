@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Bruno Guglielmotti 
-joaquin otalora
-Federico Richter
-=======
->>>>>>> 1a303f1f2c12a7b785fe5c98ce456316d0c2a610
 Bruno Guglielmotti
 joaquin otalora
 Federico Richter
